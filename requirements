@@ -1,6 +1,9 @@
-SpeechRecognition
 pyttsx3
 pywhatkit
-wikipedia
+datetime
+wikipedia-api
 pyjokes
-sympy
+webbrowser
+streamlit
+git+https://github.com/openai/whisper.git
+torch 
